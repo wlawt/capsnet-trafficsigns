@@ -13,6 +13,6 @@ Citations
 
 # Results
 
-![Results](https://gyazo.com/996b831139f06775002b159d98337eca)
+![Results](https://i.gyazo.com/996b831139f06775002b159d98337eca.png)
 
 # CapsNet
